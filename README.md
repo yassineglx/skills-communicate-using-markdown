@@ -11,6 +11,8 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
+### my edit 
+
 </header>
 
 
@@ -36,7 +38,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### Example
 
-###### my edit 
+
 
 ```md
 
