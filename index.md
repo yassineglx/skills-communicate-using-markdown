@@ -15,6 +15,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 ![image](https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp)
 
 
+<img alt="Image of Yaktocat" src=https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp width=400>
 ## Step 1: Add headers
 
 
